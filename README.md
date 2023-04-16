@@ -1,3 +1,12 @@
+Gelecek planları 
+-Sepet ikonu için badge
+-Checkout sonrası sepeti sıfırlamak ve yeni sepet oluşturmak
+-Modern ui
+-Daha iyi ürün ekranı
+
+
+
+
 ![Screenshot from 2023-04-16 22-05-42](https://user-images.githubusercontent.com/72693128/232336428-109c4057-39e0-4c73-88d4-11e6a42452ac.png)
 Ana ekran
 ![Screenshot from 2023-04-16 22-08-20](https://user-images.githubusercontent.com/72693128/232336444-e9703dab-cfcd-4f4c-a2ff-30a9db45dfe9.png)
